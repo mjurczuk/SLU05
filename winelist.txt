@@ -2,3 +2,4 @@ Malbec
 Cabernet
 Pinot Grigio
 Moscatel
+Chardonnay
